@@ -39,7 +39,7 @@ var ret = PLC.Dev.D["0"].SingleValue;
 var ret = PLC.Dev.D["0"].DoubleValue;
 
 // 単精度浮動小数（float）
-var PLC.Dev.D["0"].FloatValue;
+var ret = PLC.Dev.D["0"].FloatValue;
 ```
 
 ## ワードデバイスの書き込み
