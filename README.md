@@ -1,4 +1,4 @@
-# M-Mapper
+# MMapper
 三菱製ライブラリMX Componentを手軽に利用する為のラッパークラス
 
 ## 概要
